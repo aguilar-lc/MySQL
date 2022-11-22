@@ -1,4 +1,4 @@
-Repositório referente aos conhecimentos adquiridos durante o Curso de MySQL realizado através da plataforma Curso em Vídeo e com ministração do Professor Gustavo Guanabara.
+Repositório referente às práticas realizadas e aos conhecimentos adquiridos durante o Curso de MySQL realizado através da plataforma Curso em Vídeo e com ministração do Professor Gustavo Guanabara.
 
 ⚠️ Ferramentas utilizadas: Workbench e Xampp.
 
